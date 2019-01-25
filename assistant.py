@@ -1,0 +1,3 @@
+import connection_checker
+
+print(connection_checker.check_internet_connection())
